@@ -1,4 +1,2 @@
-# test-git-open-source
-
-Estou tentando fazer um pull-request em um dos meus repositório
-Estou tentando fazer somente um teste
+# Projeto de teste para aprender sobre projetos Open source
+ - Eu estou fazendo um projeto fictício para aprender como funciona projetos open source, estou aprendendo pelo o curso de GitHub da alura 
